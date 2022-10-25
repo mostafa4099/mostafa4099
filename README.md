@@ -1,10 +1,10 @@
 <p align="center" width="100%">
     <img width="33%" src="https://media-exp1.licdn.com/dms/image/C5603AQE13ZHZ32RCCQ/profile-displayphoto-shrink_400_400/0/1637424194409?e=1672272000&v=beta&t=VqRn1Bi1ifjpK4NEcsg0mJIXgBh9Lhkl9T6AStRRdd8"> 
 </p>
-# Md. Golam Mostafa
-## Java Developer | Full-Stack Web Developer | Data Scientist
+<h1>Md. Golam Mostafa</h1>
+<h3>Java Developer | Full-Stack Web Developer | Data Scientist</h3>
 
-#### - 🔭 I’m currently working As a Java Developer at BRAC IT Services Ltd.
+<h5>- 🔭 I’m currently working As a Java Developer at BRAC IT Services Ltd.</h5>
 
 4 years of working experience as a Full Stack Java Developer using technologies like Java, Spring Boot, Struts, Hibernate, Jasper Report, JavaScript, AngularJS, Bootstrap, PL/SQL, SQL, jQuery, Ajax, Python, GCP, etc. Completed Masters in Applied Statistics and Data Science at Jahangirnagar University and MSS and BSS in Economics at National University of Bangladesh with IsDB-BISEW Diploma in Enterprise Systems Analysis and Design - J2EE (ESAD - J2EE) in IsDB BISEW IT Scholarship Program.
 
