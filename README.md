@@ -1,5 +1,5 @@
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/mostafa4099/mostafa4099/blob/main/MyBanner.png"> 
+<p width="100%">
+    <img width="100%" src="https://github.com/mostafa4099/mostafa4099/blob/main/MyBanner.png"> 
 </p>
 <h1>Md. Golam Mostafa</h1>
 <h3>Java Developer | Full-Stack Web Developer | Data Scientist</h3>
